@@ -25,6 +25,7 @@ h1{
     font-family: poppins;
     font-size: 2.7rem;
     font-weight: 600;
+    text-shadow: 2px 2px 3px rgba(0,0,0,.3);
   }
   .herobg .form-control{
       border-radius: 0!important;
@@ -141,6 +142,7 @@ h1{
     align-items: center;
     background: #bd0b7e 50% 85px no-repeat;
     background-size:cover;
+    background-position: center center;
 
    
 }
@@ -187,7 +189,10 @@ footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
 .footer_ul2_amrc li a:hover { text-decoration:none;}
 .footer_ul2_amrc li i { margin-top:5px;}
 
-.bottom_border { border-bottom:1px solid #323f45; padding-bottom:20px;}
+.bottom_border { 
+    border-bottom: 1px solid #bcc1c438;
+     padding-bottom:20px;
+}
 .foote_bottom_ul_amrc {
 	list-style-type:none;
 	padding:0px;

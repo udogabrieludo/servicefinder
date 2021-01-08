@@ -91,7 +91,7 @@ export const NavLinks =styled(LinkR)`
  font-family:poppins;
  font-size: .8rem;
  text-decoration:none !important;
-font-weight: 500 !important;
+font-weight: 600 !important;
 padding: 0 3px;
 text-transform: uppercase;
 transition: all .2s ease-in-out;
@@ -132,7 +132,7 @@ text-transform:uppercase;
 font-size:14px;
 color:#fff;
 padding:10px 22px;
-font-weight:500;
+font-weight:600;
 font-family:poppins;
 transition: all .2s ease-in-out;
 

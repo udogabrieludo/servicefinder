@@ -177,9 +177,7 @@ const Home = () => {
            <div className=" container-fluid">
                <div className="row">
                   <div className="col-md-6">
-                        <div className=" ">
-                            <img src="/images/customersupport.jpg" className="img-fluid" alt="" />
-                      </div>
+                  <img src="/images/customersupport.jpg" className="img-fluid" alt="" />
                     </div>
                    <div className="col-md-6 "> 
                        <div className="pt-5 pl-5 pr-4">
